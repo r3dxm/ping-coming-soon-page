@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ping-coming-soon-page/static/css/main.6f1244b1.css",
+    "main.js": "/ping-coming-soon-page/static/js/main.680bdcc0.js",
+    "static/js/787.2874767b.chunk.js": "/ping-coming-soon-page/static/js/787.2874767b.chunk.js",
+    "static/media/LibreFranklin.ttf": "/ping-coming-soon-page/static/media/LibreFranklin.b6fbb7c6d08be7baa7d7.ttf",
+    "static/media/illustration-dashboard.png": "/ping-coming-soon-page/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/logo.svg": "/ping-coming-soon-page/static/media/logo.7e09371f05c7e00fddccee34a9deac87.svg",
+    "index.html": "/ping-coming-soon-page/index.html",
+    "main.6f1244b1.css.map": "/ping-coming-soon-page/static/css/main.6f1244b1.css.map",
+    "main.680bdcc0.js.map": "/ping-coming-soon-page/static/js/main.680bdcc0.js.map",
+    "787.2874767b.chunk.js.map": "/ping-coming-soon-page/static/js/787.2874767b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1244b1.css",
+    "static/js/main.680bdcc0.js"
+  ]
+}
